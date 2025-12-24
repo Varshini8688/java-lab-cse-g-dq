@@ -69,6 +69,13 @@
 
 ![Experiment 1b output](quard-2.png)
 
+## CASE-3 (D<0)
+
+![Experiment 1b output](quard-3.png)
+
+
+
+
 
 
 
