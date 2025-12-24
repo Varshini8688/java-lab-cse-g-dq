@@ -61,11 +61,11 @@
 }
 ```
 ## Output:
-CASE-1 (D>0)
+## CASE-1 (D>0)
 
 ![Experiment 1b output](quard-1.png)
 
-CASE-2 (D==0)
+## CASE-2 (D==0)
 
 ![Experiment 1b output](quard-2.png)
 
