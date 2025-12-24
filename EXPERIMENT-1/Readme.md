@@ -61,7 +61,14 @@
 }
 ```
 ## Output:
-![Experiment 1b Case-1 (D>0)](quard-1.png)
+CASE-1 (D>0)
+
+![Experiment 1b output](quard-1.png)
+
+CASE-2 (D==0)
+
+![Experiment 1b output](quard-2.png)
+
 
 
 
