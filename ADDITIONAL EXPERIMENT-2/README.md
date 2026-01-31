@@ -94,11 +94,9 @@ class SubStringInsert {
 ## Source Code:
 ``` java
 import java.util.Scanner;
-
 class Palindrome {
     public static void main(String[] args) {
-
-        String str;
+      String str;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the string: ");
         str = sc.nextLine();
